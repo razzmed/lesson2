@@ -4,10 +4,8 @@ import java.util.Scanner;
 
 public class Main {
 
-    int m;
-
     public static void main(String[] args) {
-        
+
         int d = printIt(45, 55, 66);
         System.err.println(d);
 
